@@ -43,7 +43,7 @@
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a>
 
-<h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.gif" width=32px /></h2>
+<h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width=32px /></h2>
 <a href="https://gitlab.com/lnwtxn" target="_blank">
     <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   </a> 
