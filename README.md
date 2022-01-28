@@ -2,7 +2,7 @@
 
    
 <p align="center">
-<i><br>Hello, My name is Kittipod Lambangchang. <br>I'm a student at Mary Vitthaya Kabinburi School.<br>And next year, I'll study computer engineering<br>At King Mongkut's Institute of Technology Ladkrabang.<br>I'm interested in Data Science and Artificial Intelligence.</i>
+<i><br>Hello, My name is Kittipod Lambangchang. <br>I'm a student at Mary Vitthaya Kabinburi School.<br>I'm interested in Data Science and Artificial Intelligence.</i>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
