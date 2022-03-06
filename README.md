@@ -42,6 +42,13 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   </a>
+	
+<a href="https://reactjs.org/" target="_blank">
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+	<a href="https://tailwindcss.com/" target="_blank">
+    <img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
 
 <h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width=32px /></h2>
 <a href="https://gitlab.com/lnwtxn" target="_blank">
