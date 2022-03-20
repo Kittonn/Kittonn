@@ -2,7 +2,7 @@
 
    
 <p align="center">
-<i><br>Hello, My name is Kittipod Lambangchang.</i>
+<i><br>Hello, My name is Kittipod Lambangchang.<br>I'm a computer engineering student.<br>at King Mongkut's Institute of Technology Ladkrabang.</i>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -70,10 +70,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lnwtxn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lnwtxn&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kittonn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kittonn&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnwtxn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lnwtxn" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kittonn&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Kittonn" height="192px"/>
   <br/>
   </p>
 </details>
@@ -82,7 +82,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lnwtxn"><img alt="lnwtxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lnwtxn&custom_title=lnwtxn's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Kittonn"><img alt="Kittonn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kittonn&custom_title=Kittonn's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
