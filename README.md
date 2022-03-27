@@ -53,6 +53,9 @@
 	<a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
+	<a href="https://expressjs.com/" target="_blank">
+    <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
 	</div>
 <h2>Contact me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width=32px /></h2>
 	<div align="center">
