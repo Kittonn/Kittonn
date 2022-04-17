@@ -1,5 +1,5 @@
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello I'm Kitton  </h1>
 	
 <details>
 <summary><b>🗃️ Active Projects</b></summary>
