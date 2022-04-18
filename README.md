@@ -1,9 +1,6 @@
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello, I'm Kitton.  </h1>
 
-
-
-
 <details>
 <summary><b>📒 Skills</b></summary>
 <div align="center"> 
@@ -27,30 +24,35 @@
 </tr>
 			
 </table>
-            
-            
-		
-		
-  	
-		
- 		 
- 		 
-		
-            
-            
-            
-          
-  	
+         
+	
 </div>
 </details> 
 
-
 <details>
 <summary><b>🗃️ Active Projects</b></summary>
-	<ul>
-		<li><a href="https://github.com/Kittonn/Covid-Tracker"><b>Covid-Tracker</b></a> - Reports Covid-19 and Vaccination in Thailand.</li>
-		<li><a href="https://github.com/Kittonn/GameMongGamer"><b>GameMongGamer</b></a> - Change characters from Thai to English.</li>
-	</ul>
+<table align="center">
+	<tr>
+		<th><b>Name</b></th>
+		<th>Description</th>
+		<th>Tools</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Kittonn/Covid-Tracker"><b>Covid-Tracker</b></a></td>
+		<td>Reports Covid-19 and Vaccination in Thailand.</td>
+		<td>React.TS / Redux Toolkit / Tailwind CSS</td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Kittonn/GameMongGamer"><b>GameMongGamer</b></a></td>
+		<td>Change characters from Thai to English.</td>
+		<td>React.TS / Redux Toolkit / Tailwind CSS</td>
+	</tr>	
+	<tr>
+		<td><a href="https://github.com/Kittonn/Countdown-Website"><b>Countdown-Website</b></a></td>
+		<td>Countdown for firstday in KMITL.</td>
+		<td>React.TS / Tailwind CSS</td>
+	</tr>		
+</table>
 </details> 
 <details>
 	
