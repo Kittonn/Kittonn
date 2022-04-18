@@ -1,8 +1,6 @@
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello, I'm Kitton.  </h1>
-<p align="center">
-	<img src="./63487-programming-computer.gif" height="380px">
-</p>
+
 <details>
 <summary><b>📒 Skills</b></summary>
 	<p align="center"> 
@@ -34,10 +32,10 @@
 <details>
 	
 <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+
   <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kittonn&show_icons=true&locale=en&layout=compact&theme=dark" alt="Kittonn" height="190px"/>
-  <br/>
+	  <br>
 	  <a href="https://github.com/Kittonn"><img alt="Kittonn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kittonn&custom_title=Kittonn's%20Contribution%20Graph&theme=react-dark" height="190px" />
   </p>
 </details>
