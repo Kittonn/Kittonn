@@ -42,22 +42,18 @@
 	<tr>
 		<th><b>Name</b></th>
 		<th>Description</th>
-		<th>Tools</th>
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Kittonn/Covid-Tracker"><b>Covid-Tracker</b></a></td>
 		<td>Reports Covid-19 and Vaccination in Thailand.</td>
-		
 	</tr>
 	<tr>
 		<td><a href="https://github.com/Kittonn/GameMongGamer"><b>GameMongGamer</b></a></td>
-		<td>Change characters from Thai to English.</td>
-		
+		<td>Change characters from Thai to English.</td>	
 	</tr>	
 	<tr>
 		<td><a href="https://github.com/Kittonn/Countdown-Website"><b>Countdown-Website</b></a></td>
-		<td>Countdown for firstday in KMITL.</td>
-		
+		<td>Countdown for firstday in KMITL.</td>	
 	</tr>	
 	<tr>
 		<td><a href="https://github.com/Kittonn/JeepDtonNeeMaitan"><b>JeepDtonNeeMaitan</b></a></td>
