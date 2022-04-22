@@ -55,11 +55,7 @@
 		<td><a href="https://github.com/Kittonn/Countdown-Website"><b>Countdown-Website</b></a></td>
 		<td>Countdown for firstday in KMITL.</td>	
 </tr>	
-<tr>
-		<td><a href="https://github.com/Kittonn/JeepDtonNeeMaitan"><b>JeepDtonNeeMaitan</b></a></td>
-		<td>จีบตอนนี้ไม่ทัน... แต่ทัน...</td>
-		
-</tr>	
+	
 </table>
 </details> 
 <details>
