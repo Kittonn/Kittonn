@@ -44,7 +44,7 @@
 	<th>Description</th>
 </tr>
 <tr>
-		<td><a href="https://github.com/Kittonn/Vocab-Store"><b>Covid-Tracker</b></a></td>
+		<td><a href="https://github.com/Kittonn/Vocab-Store"><b>Vocab-Store</b></a></td>
 		<td>Vocabulary quiz for GAT english.</td>
 </tr>
 <tr>
