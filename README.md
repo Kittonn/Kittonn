@@ -44,6 +44,10 @@
 	<th>Description</th>
 </tr>
 <tr>
+		<td><a href="https://github.com/Kittonn/Vocab-Store"><b>Covid-Tracker</b></a></td>
+		<td>Vocabulary quiz for GAT english.</td>
+</tr>
+<tr>
 		<td><a href="https://github.com/Kittonn/Covid-Tracker"><b>Covid-Tracker</b></a></td>
 		<td>Reports Covid-19 and Vaccination in Thailand.</td>
 </tr>
