@@ -5,7 +5,8 @@
 <h3>My Skills 👨🏻‍💻</h3>
 <ul>
 <li><b>Languages</b> : <i>C / C++ / Python / Html / Css / JavaScript / TypeScript</i></li>
-<li><b>Libraries & Frameworks</b> : <i>Node.Js & Express.Js / React & Redux / Svelte & Kit / Tailwind Css / Sass / Bootstrap</i></li>
+<li><b>Front-End</b> : <i>React & Redux / Svelte & Kit / Tailwind Css / Sass / Bootstrap</i></li>
+<li><b>Back-End</b> : <i>Node.Js & Express.Js</i></li>
 <li><b>Data Science</b> : <i>Numpy / Pandas / Matplotlib</i></li>
 <li><b>Database</b> : <i>MongoDB / Firebase</i></li>
 
