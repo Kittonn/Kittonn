@@ -1,4 +1,4 @@
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello, I'm Kitton.  </h1>
+<h1 align="center">Hello, I'm Kitton.  </h1>
 
 <p align="center"><i>Hello, My name is <b>Kittipod Lambangchang</b>.<br>But you can call me <b>Ton</b> or <b>Kitton</b>.<br>I'm a computer engineering student at KMITL. <br>who is interested in Web Development and Data Science.</i></p>
 
