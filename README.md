@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Kitton. 👋🏻</h1>
+<h3 align="center">A passionate computer engineering student at KMITL. ⚙</h3>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png">
 
+<p>🥰 Interested in Web Development <b>(Full Stack)</b></p>
+<p>🚀 I’m currently learning <b>Backend (GraphQL,Node.JS)</b></p>
 <details>
   <summary>Projects 🗂</summary>
   <ul>
